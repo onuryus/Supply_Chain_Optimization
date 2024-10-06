@@ -250,15 +250,9 @@ $$
    $$
 
 
-   $$
-   \sum_{f \in F} y_{fw} \leq P_w, \quad \forall w \in W
-   $$
-
-
-
-   <p align="center">
+   <div style="text-align: center;">
    $$ \sum_{f \in F} y_{fw} \leq P_w, \quad \forall w \in W $$
-   </p>
+   </div>
 
 
 4. **Retailer Demand Constraints**:
