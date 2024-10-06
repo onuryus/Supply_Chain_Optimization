@@ -270,4 +270,4 @@ $$
 # Optimization Result
 
 
-<img src="pic/result.png" alt="Dashboard 2" width="600" />
+<img src="pic/result.png" alt="Dashboard 2" width="800" />
