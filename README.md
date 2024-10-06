@@ -15,6 +15,14 @@
   </tr>
 </table>
 
+### Languages and Libraries
+<div style="display: flex; justify-content: center;">
+    <img src="pic/networkx.jpg" alt="NetworkX Badge" style="width: 100px; height: auto; margin-right: 10px;" />
+    <img src="pic/PyomoNewBlueDense.png" alt="Pyomo Badge" style="width: 100px; height: auto;" />
+</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 Supply chains are encountered in almost every field, and optimizing these processes can yield substantial financial benefits for businesses/companies. This chain encompasses the entire process from sourcing raw materials from suppliers, processing them in factories, storing them in warehouses, and finally delivering them to retailers. In this portfolio project, I will optimize this process using Linear Programming (LP) with Pyomo
