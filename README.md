@@ -5,10 +5,10 @@
   <tr>
     <td>
       <h1>Give me the route</h1>
-      <img src="/pic/truck.gif" alt="Tip GIF" width="250" />
+      <img src="/pic/truck.gif" alt="Tip GIF" width="150" />
     </td>
     <td rowspan="2">
-      <img src="/pic/g907.jpg" alt="G907 Image" width="250" />
+      <img src="/pic/g907.jpg" alt="G907 Image" width="500" />
     </td>
   </tr>
   <tr>
