@@ -227,15 +227,14 @@ $$
 ## Constraints
 1. **Supplier Capacity Constraints**:
    The total raw materials sent by each supplier must not exceed its production capacity:
-   $$
-   \sum_{f \in F} x_{sf} \leq P_s, \quad \forall s \in S
-   $$
+   
+<img src="pic/Supplier_Capacity_Constraints.png" alt="Dashboard 2" width="200" />
 
-2. **Factory Capacity Constraints**:
+
+3. **Factory Capacity Constraints**:
    The amount of raw materials received by each factory must not exceed its capacity. Additionally, the operating rate of each factory is restricted to a specific percentage:
-   $$
-   \sum_{s \in S} x_{sf} \leq P_f, \quad \forall f \in F
-   $$
+
+<img src="pic/Factory_Capacity_Constraints" alt="Dashboard 2" width="200" />
 
 
    
