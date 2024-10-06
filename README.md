@@ -249,6 +249,12 @@ $$
    \sum_{f \in F} y_{fw} \leq P_w, \quad \forall w \in W
    $$
 
+
+   $$
+   \sum_{f \in F} y_{fw} \leq P_w, \quad \forall w \in W
+   $$
+
+
 4. **Retailer Demand Constraints**:
    The demand of each retailer must be met by the products received from the corresponding warehouse:
    $$
