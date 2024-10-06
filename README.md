@@ -251,24 +251,23 @@ $$
 
 5. **Retailer Demand Constraints**:
    The demand of each retailer must be met by the products received from the corresponding warehouse:
-   $$
-   \sum_{w \in W} z_{wr} = D_r, \quad \forall r \in R
-   $$
+
+<img src="pic/Retailer_Demand_Constraints.png" alt="Dashboard 2" width="200" />
+
+   
 
 6. **Factory Input-Output Balance**:
    There must be a balance between the incoming and outgoing products for each factory:
-   $$
-   \sum_{s \in S} x_{sf} = \sum_{w \in W} y_{fw}, \quad \forall f \in F
-   $$
+<img src="pic/Factory_Input-Output_Balance.png" alt="Dashboard 2" width="200" />
+
 
 7. **Warehouse Input-Output Balance**:
    There must be a balance between the incoming and outgoing products for each warehouse:
-   $$
-   \sum_{f \in F} y_{fw} = \sum_{r \in R} z_{wr}, \quad \forall w \in W
-   $$
+<img src="pic/Warehouse_Input-Output_Balance.png" alt="Dashboard 2" width="200" />
+
 
 
 # Optimization Result
 
 
-<img src="pic/result.png" alt="Dashboard 2" width="500" />
+<img src="pic/result.png" alt="Dashboard 2" width="600" />
