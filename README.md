@@ -204,7 +204,7 @@ In light of all this information, let’s summarize the system, parameters, vari
 - *P*<sub>f</sub>: __Capacity for factory f (tons)__
 - *O*<sub>f</sub>: __Operating cost for factory f (USD/ton)__
 - *P*<sub>w</sub>: __Capacity for warehouse w (tons)__
-- *S*<sub>w</sub>: __Storage cost for warehouse w (TL/ton)__
+- *S*<sub>w</sub>: __Storage cost for warehouse w (USD/ton)__
 - *D*<sub>r</sub>: __Demand for retailer r (tons)__
 - *T*<sub>sf</sub>: __Transportation cost between supplier s and factory f (USD/ton)__
 - *T*<sub>fw</sub>: __Transportation cost between factory f and warehouse w (USD/ton)__
