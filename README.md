@@ -256,3 +256,9 @@ $$
    $$
    \sum_{f \in F} y_{fw} = \sum_{r \in R} z_{wr}, \quad \forall w \in W
    $$
+
+
+# Optimization Result
+
+
+<img src="pic/result.png" alt="Dashboard 2" width="500" />
