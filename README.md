@@ -245,29 +245,23 @@ $$
 
 3. **Warehouse Capacity Constraints**:
    The amount of products received by each warehouse must not exceed its capacity:
-   $$
-   \sum_{f \in F} y_{fw} \leq P_w, \quad \forall w \in W
-   $$
+
+<img src="pic/Warehouse_Capacity_Constraints" alt="Dashboard 2" width="20" />
 
 
-   <div style="text-align: center;">
-   $$ \sum_{f \in F} y_{fw} \leq P_w, \quad \forall w \in W $$
-   </div>
-
-
-4. **Retailer Demand Constraints**:
+5. **Retailer Demand Constraints**:
    The demand of each retailer must be met by the products received from the corresponding warehouse:
    $$
    \sum_{w \in W} z_{wr} = D_r, \quad \forall r \in R
    $$
 
-5. **Factory Input-Output Balance**:
+6. **Factory Input-Output Balance**:
    There must be a balance between the incoming and outgoing products for each factory:
    $$
    \sum_{s \in S} x_{sf} = \sum_{w \in W} y_{fw}, \quad \forall f \in F
    $$
 
-6. **Warehouse Input-Output Balance**:
+7. **Warehouse Input-Output Balance**:
    There must be a balance between the incoming and outgoing products for each warehouse:
    $$
    \sum_{f \in F} y_{fw} = \sum_{r \in R} z_{wr}, \quad \forall w \in W
