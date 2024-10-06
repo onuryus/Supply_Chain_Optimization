@@ -246,7 +246,7 @@ $$
 3. **Warehouse Capacity Constraints**:
    The amount of products received by each warehouse must not exceed its capacity:
 
-<img src="pic/Warehouse_Capacity_Constraints.png" alt="Dashboard 2" width="20" />
+<img src="pic/Warehouse_Capacity_Constraints.png" alt="Dashboard 2" width="100" />
 
 
 5. **Retailer Demand Constraints**:
