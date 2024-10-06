@@ -1,11 +1,10 @@
-# Supply_Chain_Optimization
-
+# Supply Chain Optimization Project
 
 <table>
   <tr>
     <td>
       <h1>Give me the route</h1>
-      <img src="/pic/truck.gif" alt="Tip GIF" width="150" />
+      <img src="/pic/truck.gif" alt="Tip GIF" width="100" />
     </td>
     <td rowspan="2">
       <img src="/pic/g907.jpg" alt="G907 Image" width="800" />
