@@ -234,7 +234,7 @@ $$
 3. **Factory Capacity Constraints**:
    The amount of raw materials received by each factory must not exceed its capacity. Additionally, the operating rate of each factory is restricted to a specific percentage:
 
-<img src="pic/Factory_Capacity_Constraints" alt="Dashboard 2" width="200" />
+<img src="pic/Factory_Capacity_Constraints.png" alt="Dashboard 2" width="200" />
 
 
    
